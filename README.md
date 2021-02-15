@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abzalafr
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning Java
+- 📫 kenzhegulov.a@afr.kz
