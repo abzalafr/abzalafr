@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abzalafr
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 📫 kenzhegulov.a@afr.kz
